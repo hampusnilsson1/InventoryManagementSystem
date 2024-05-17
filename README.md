@@ -24,7 +24,7 @@ This application uses 4 different Design Patterns, which are:
 ## Algorithms
 
 - **QuickSort and MergeSort**
-  - I believe that QuickSort is the fastest. Additionally, I created a search algorithm.
+  - I believe that QuickSort is the fastest. Both used to sort the inventory by name, quantity or price.
 
 - **Binary Search**
-  - The fastest search algorithm but requires a sorted list.
+  - Additionally, I created a search algorithm. This is the fastest search algorithm but requires a sorted list.
