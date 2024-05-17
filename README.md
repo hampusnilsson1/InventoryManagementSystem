@@ -1,5 +1,5 @@
 # Inventory Management System
-## Hampus Nilsson
+### Hampus Nilsson
 I have created an application that simulates a store's inventory management.
 
 This application uses 4 different Design Patterns, which are:
