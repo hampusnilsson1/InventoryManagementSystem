@@ -9,7 +9,7 @@ This application uses 4 different Design Patterns, which are:
 
 ## Design Patterns
 
-### Factory Pattern
+### Factory Method Pattern
 - Used in product creation since all products have different messages when they are added and when an order arrives.
 
 ### Observer Pattern
